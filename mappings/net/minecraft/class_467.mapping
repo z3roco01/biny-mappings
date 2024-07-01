@@ -1,0 +1,11 @@
+CLASS net/minecraft/class_467
+	FIELD field_1772 random Ljava/util/Random;
+	METHOD method_1530 (Lnet/minecraft/class_18;Lnet/minecraft/class_57;)V
+		ARG 1 world
+		ARG 2 entity
+	METHOD method_1531 (Lnet/minecraft/class_18;Lnet/minecraft/class_57;)Z
+		ARG 1 world
+		ARG 2 entity
+	METHOD method_1532 (Lnet/minecraft/class_18;Lnet/minecraft/class_57;)Z
+		ARG 1 world
+		ARG 2 entity

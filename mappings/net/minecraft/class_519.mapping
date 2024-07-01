@@ -1,0 +1,3 @@
+CLASS net/minecraft/class_519
+	METHOD <init> (Lnet/minecraft/class_18;)V
+		ARG 1 world

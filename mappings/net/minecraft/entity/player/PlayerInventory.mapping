@@ -7,7 +7,15 @@ CLASS net/minecraft/class_136 net/minecraft/entity/player/PlayerInventory
 	FIELD field_750 cursorStack Lnet/minecraft/class_31;
 	METHOD <init> (Lnet/minecraft/class_54;)V
 		ARG 1 player
+	METHOD method_673 writeNbt (Lnet/minecraft/class_202;)Lnet/minecraft/class_202;
+		ARG 1 nbt
+	METHOD method_674 getHeldMiningSpeedMultiplier (Lnet/minecraft/class_17;)F
+		ARG 1 block
 	METHOD method_675 getSelectedItem ()Lnet/minecraft/class_31;
 	METHOD method_677 setCursorStack (Lnet/minecraft/class_31;)V
 		ARG 1 cursorStack
+	METHOD method_678 readNbt (Lnet/minecraft/class_202;)V
+		ARG 1 nbt
+	METHOD method_679 isHeldItemSuitableFor (Lnet/minecraft/class_17;)Z
+		ARG 1 block
 	METHOD method_689 getCursorStack ()Lnet/minecraft/class_31;

@@ -1,0 +1,6 @@
+CLASS net/minecraft/class_417
+	FIELD field_1673 lightType Lnet/minecraft/class_56;
+	METHOD <init> (Lnet/minecraft/class_56;IIIIII)V
+		ARG 1 lightType
+	METHOD method_1402 (Lnet/minecraft/class_18;)V
+		ARG 1 world
